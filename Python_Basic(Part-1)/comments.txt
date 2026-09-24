@@ -1,0 +1,9 @@
+1. Single-line comment
+# This is a comment
+
+
+2. Multi-line comments
+# This is a multi-line comment
+# We are learning Python
+# for AI and Machine Learning
+# in 2026.
