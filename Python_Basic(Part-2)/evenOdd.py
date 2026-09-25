@@ -6,3 +6,4 @@ if(num1%2 == 0):
 else:
     print(f"{num1} is Odd")
 
+
